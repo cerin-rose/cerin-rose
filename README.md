@@ -1,4 +1,4 @@
-Hi there 👋, I'm Cerin Rose
+#Hi there 👋, I'm Cerin Rose
 
 🎓 Master’s Student in Information Systems at Binghamton University (Expected May 2026)
 
